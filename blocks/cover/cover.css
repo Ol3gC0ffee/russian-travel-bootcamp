@@ -1,0 +1,19 @@
+.cover {
+    margin: 92px auto 0 auto;
+    max-width: 1184px;
+    width: 100%;
+    position: relative;
+    height:fit-content;
+}
+
+@media(max-width: 1024px) {
+    .cover {
+        margin-top: 90px;
+    }
+}
+
+@media(max-width: 786px) {
+    .cover {
+        margin-top: 66px;
+    }
+}
