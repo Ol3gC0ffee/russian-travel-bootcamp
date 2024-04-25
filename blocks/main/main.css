@@ -1,5 +1,5 @@
 .main {
-    width: calc(100% - 96x);
+    width: 100%;
     max-width: 1184px;
     margin: 0 auto;
     justify-content: center;
