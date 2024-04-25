@@ -1,7 +1,6 @@
 .place {
     margin: 80px auto 0 auto;
     display: grid;
-    gap: 0;
     max-width: 984px;
     width: 100%;
     gap: 48px 40px;
