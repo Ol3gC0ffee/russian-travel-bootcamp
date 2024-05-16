@@ -1,18 +1,22 @@
 .cover {
     margin: 92px auto 0 auto;
     max-width: 1184px;
+    min-height: 740px;
     width: 100%;
     position: relative;
-    height:fit-content;
+    background-image: url("../../images/__background.png");
+    background-size: cover;
+    display: flex;
 }
 
-@media(max-width: 1024px) {
+@media(max-width: 1023px) {
     .cover {
+        min-height: 62.5vw;
         margin-top: 90px;
     }
 }
 
-@media(max-width: 786px) {
+@media(max-width: 767px) {
     .cover {
         margin-top: 66px;
     }

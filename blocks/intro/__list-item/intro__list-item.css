@@ -2,11 +2,5 @@
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
-    font-family: InterBlack, sans-serif;
-}
-
-@media(max-width: 768px) {
-    .intro__list-item {
-        font-size: 12px;
-    }
+    font-family: Inter, sans-serif;
 }

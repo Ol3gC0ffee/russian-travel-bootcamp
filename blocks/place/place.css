@@ -7,7 +7,7 @@
     grid-template-columns: 460px 1fr;
 }
 
-@media(max-width: 1280px) {
+@media(max-width: 1279px) {
     .place {
         width: calc(100% - 96px);
         grid-template-columns: 440px 1fr;
@@ -15,7 +15,7 @@
     }
 }
 
-@media(max-width: 1024px) {
+@media(max-width: 1023px) {
     .place {
         margin-top: 73px;
         width: calc(100% - 48px);
@@ -24,7 +24,7 @@
     }
 }
 
-@media(max-width: 768px) {
+@media(max-width: 767px) {
     .place {
         margin-top: 50px;
         width: 100%;
